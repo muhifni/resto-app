@@ -1,0 +1,24 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    position: relative;
+    z-index: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+:root {
+    --white: #ffffff;
+    --a: #367e66;
+    --b: #97872c;
+    --c: #38554c;
+    --d: #5e4d4a;
+    --e: #ada96a;
+}
+
