@@ -7,7 +7,7 @@ class Card extends HTMLElement {
     }
 
     dataCard(data) {
-        let.card = "";
+        let card = "";
         for (let item of data.restaurants) {
             card += `
             <div class="card">
